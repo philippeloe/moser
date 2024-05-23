@@ -55,7 +55,7 @@ Analyze reaction rates, rate constants, and other kinetic parameters with ease.
 
 ## 💿 Setup 
 __1. Set up an environment__ <br>
-Create a new environment, you may also give the environment a different name. 
+Create a new environment, you may also give the environment a different name:
 ```
 conda create -n moser python=3.10 
 ```
@@ -79,7 +79,7 @@ pip install moser
 ```
 
 __4. Jupyter Lab <br>__
-If you need Jupyter Lab, install it 
+If you need Jupyter Lab, install it:
 
 ```
 (moser) $ pip install jupyterlab
