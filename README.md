@@ -11,19 +11,19 @@ MOSER.py
 __MOSER.py__ (for **M**olecular **O**perations and **S**olutions for **E**quilibria and **R**eactions) is a versatile Python package designed for physical chemistry calculations. 
 
 ## 🔬 Usage
-Unlocking an abundance of analytical tools, MOSER.py serves as an invaluable companion for chemistry students, providing intuitive functionalities for essential calculations and analyses. MOSER.py streamlines complex tasks, empowering students to deepen their understanding of physical chemistry concepts and accelerate their learning journey. Among other features, it enables the users to
+Unlocking an abundance of analytical tools, MOSER.py serves as an invaluable companion for chemistry students, providing intuitive functionalities for essential calculations and analyses. MOSER.py streamlines complex tasks, empowering students to deepen their understanding of physical chemistry concepts and accelerate their learning journey. Among other features, it enables the users to:
 
 __1. Balance Chemical Equations__ <br>
-Easily balance chemical equations with a simple function call. MOSER.py uses advanced algorithms to ensure accurate balancing of equations.
+Easily balance chemical equations with a simple function call. __MOSER.py__ uses advanced algorithms to ensure accurate balancing of equations.
 
 __2. Calculate Molar Mass__ <br>
-Determine the molar mass of chemical compounds effortlessly with MOSER.py. Input the chemical formula, and MOSER.py will compute the molar mass for you.
+Determine the molar mass of chemical compounds effortlessly with __MOSER.py__. Input the chemical formula, and MOSER.py will compute the molar mass for you.
 
 __3. Determine the Reactional Quotient__ <br>
-Evaluate reaction quotients and kinetics parameters using MOSER.py's intuitive interface.
+Evaluate reaction quotients and kinetics parameters using __MOSER.py__'s intuitive interface.
 
 __4. Evaluate a Solution's Concentration and pH__ <br>
-Quickly calculate the concentration of solutions and pH values using MOSER.py. Specify the relevant parameters, such as the initial concentration of the solute and the volume of the solution, to obtain accurate results.
+Quickly calculate the concentration of solutions and pH values using __MOSER.py__. Specify the relevant parameters, such as the initial concentration of the solute and the volume of the solution, to obtain accurate results.
 
 __5. Simualte Titration Curves__ <br>
 Trace titration curves for acid-base titrations and visualize the pH changes throughout the titration process. Specify the concentrations of the acid and base, as well as the volume of titrant added, to generate detailed titration curves.
@@ -50,7 +50,7 @@ Find hereafter the corresponding titration curve.
     <img src="assets/Tit1.png" alt="Alt Text" width="450" style="display:block; margin:auto;">
 </p>
 
-__5. Investigate Kinetics__
+__5. Investigate Kinetics__ <br>
 Analyze reaction rates, rate constants, and other kinetic parameters with ease.
 
 ## 👩‍💻 Installation
