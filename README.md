@@ -28,6 +28,8 @@ Please enter your data:
 ∘ chemical formula of titrant base: NaOH
 ∘ concentration of titrant base: Ctit [molL⁻¹] = 0.010
 ∘ volume of titrant solution at (first) equivalence point: Veq [L] = 0.010
+
+Find hereafter the corresponding titration curve.
 ```
 ![Alt Text](assets/Titration of 0.001 M HO2CCH(OH)CH(OH)CO2H with 0.01 M NaOH.png)
 ![Project Logo](assets/banner2.png)
