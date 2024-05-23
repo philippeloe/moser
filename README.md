@@ -115,5 +115,8 @@ To install the package, run
 (conda_env) $ tox
 ```
 
+### 📖 Licence
+Distributed under the MIT License. See LICENSE.txt for more information.
+
 
 
