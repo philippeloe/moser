@@ -74,12 +74,12 @@ If you need jupyter lab, install it
 
 __1. Install Dependencies__ <br>
 Before installing __MOSER.py__, make sure to install the following dependencies:  <br>
-*・•NumPy <br>
-*SciPy <br>
-*SymPy <br>
-*Matplotlib <br>
-*Tabulate <br>
-*Itertools <br>
+•NumPy <br>
+•SciPy <br>
+•SymPy <br>
+•Matplotlib <br>
+•Tabulate <br>
+•Itertools <br>
 
 __2. Install MOSER.py__ <br>
 Once you have installed the dependencies, you can install __MOSER.py__ using pip: <br>
