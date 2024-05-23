@@ -30,6 +30,7 @@ Please enter your data:
 ∘ volume of titrant solution at (first) equivalence point: Veq [L] = 0.010
 ```
 ![Alt Text](assets/Titration of 0.001 M HO2CCH(OH)CH(OH)CO2H with 0.01 M NaOH.png)
+![Project Logo](assets/banner2.png)
 
 This usage example shows how to quickly leverage the package's main functionality with just one line of code (or a few lines of code). 
 After importing the `main_func` (to be renamed by you), you simply pass in your `data` and get the `result` (this is just an example, your package might have other inputs and outputs). 
