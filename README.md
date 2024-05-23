@@ -13,19 +13,19 @@ MOSER.py (for Molecular Operations and Solutions for Equilibria and Reactions) i
 ## 🔬 Usage
 Unlocking an abundance of analytical tools, MOSER.py serves as an invaluable companion for chemistry students, providing intuitive functionalities for essential calculations and analyses. MOSER.py streamlines complex tasks, empowering students to deepen their understanding of physical chemistry concepts and accelerate their learning journey. Among other features, it enables the users to
 
-__1. Balance Chemical Equations__
+__1. Balance Chemical Equations__ <br>
 Easily balance chemical equations with a simple function call. MOSER.py uses advanced algorithms to ensure accurate balancing of equations.
 
-__2. Calculate Molar Mass__
+__2. Calculate Molar Mass__ <br>
 Determine the molar mass of chemical compounds effortlessly with MOSER.py. Input the chemical formula, and MOSER.py will compute the molar mass for you.
 
-__3. Determine the Reactional Quotient__
+__3. Determine the Reactional Quotient__ <br>
 Evaluate reaction quotients and kinetics parameters using MOSER.py's intuitive interface.
 
-__4. Evaluate a Solution's Concentration and / or pH__
+__4. Evaluate a Solution's Concentration and pH__ <br>
 Quickly calculate the concentration of solutions and pH values using MOSER.py. Specify the relevant parameters, such as the initial concentration of the solute and the volume of the solution, to obtain accurate results.
 
-__5. Simualte Titration Curves__
+__5. Simualte Titration Curves__ <br>
 Trace titration curves for acid-base titrations and visualize the pH changes throughout the titration process. Specify the concentrations of the acid and base, as well as the volume of titrant added, to generate detailed titration curves.
 ```python
 from moser import Titration
@@ -47,7 +47,7 @@ Please enter your data:
 Find hereafter the corresponding titration curve.
 ```
 <p align="center">
-    <img src="assets/Tit1.png" alt="Alt Text" width="600" style="display:block; margin:auto;">
+    <img src="assets/Tit1.png" alt="Alt Text" width="450" style="display:block; margin:auto;">
 </p>
 
 __5. Investigate Kinetics__
