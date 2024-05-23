@@ -54,25 +54,16 @@ __5. Investigate Kinetics__ <br>
 Analyze reaction rates, rate constants, and other kinetic parameters with ease.
 
 ## 💿 Setup 
-
+__1. Set up an environment__ <br>
 Create a new environment, you may also give the environment a different name. 
-
 ```
 conda create -n moser python=3.10 
 ```
-
 ```
 conda activate moser
 (conda_env) $ pip install .
 ```
-
-If you need jupyter lab, install it 
-
-```
-(moser) $ pip install jupyterlab
-```
-
-__1. Install Dependencies__ <br>
+__2. Install Dependencies__ <br>
 Before installing __MOSER.py__, make sure to install the following dependencies:  <br>
 •NumPy <br>
 •SciPy <br>
@@ -81,10 +72,17 @@ Before installing __MOSER.py__, make sure to install the following dependencies:
 •Tabulate <br>
 •Itertools <br>
 
-__2. Install MOSER.py__ <br>
+__3. Install MOSER.py__ <br>
 Once you have installed the dependencies, you can install __MOSER.py__ using pip: <br>
 ```python
 pip install moser
+```
+
+__4. Jupyter Lab <br>__
+If you need Jupyter Lab, install it 
+
+```
+(moser) $ pip install jupyterlab
 ```
 
 ## 🛠️ Development installation
