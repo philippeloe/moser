@@ -19,6 +19,10 @@ from mypackage import main_func
 result = main_func(data)
 ```
 
+```python
+test
+```
+
 This usage example shows how to quickly leverage the package's main functionality with just one line of code (or a few lines of code). 
 After importing the `main_func` (to be renamed by you), you simply pass in your `data` and get the `result` (this is just an example, your package might have other inputs and outputs). 
 Short and sweet, but the real power lies in the detailed documentation.
