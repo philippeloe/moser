@@ -31,7 +31,8 @@ Please enter your data:
 
 Find hereafter the corresponding titration curve.
 ```
-![Project Logo](assets/Tit1.png)
+![Titration example](assets/Tit1.png)
+<img src="assets/Tit1.png" alt="Titration example" width="300" height="200">
 
 This usage example shows how to quickly leverage the package's main functionality with just one line of code (or a few lines of code). 
 After importing the `main_func` (to be renamed by you), you simply pass in your `data` and get the `result` (this is just an example, your package might have other inputs and outputs). 
