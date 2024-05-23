@@ -47,7 +47,7 @@ Please enter your data:
 Find hereafter the corresponding titration curve.
 ```
 <p align="center">
-    <img src="assets/Tit1.png" alt="Alt Text" width="450" style="display:block; margin:auto;">
+    <img src="assets/Tit1.png" alt="Alt Text" width="500" style="display:block; margin:auto;">
 </p>
 
 __5. Investigate Kinetics__ <br>
