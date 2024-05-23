@@ -53,7 +53,7 @@ Find hereafter the corresponding titration curve.
 __5. Investigate Kinetics__ <br>
 Analyze reaction rates, rate constants, and other kinetic parameters with ease.
 
-## 👩‍💻 Installation
+## 💿 Setup 
 
 Create a new environment, you may also give the environment a different name. 
 
@@ -72,6 +72,20 @@ If you need jupyter lab, install it
 (moser) $ pip install jupyterlab
 ```
 
+__1. Install Dependencies__
+Before installing __MOSER.py__, make sure to install the following dependencies:
+*NumPy
+*SciPy
+*SymPy
+*Matplotlib
+*Tabulate
+*Itertools
+
+__2. Install MOSER.py__
+Once you have installed the dependencies, you can install __MOSER.py__ using pip:
+```python
+pip install moser
+```
 
 ## 🛠️ Development installation
 
