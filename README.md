@@ -108,14 +108,14 @@ To install the package, run
 (moser) $ pip install -e ".[test,doc]"
 ```
 
-### 🔎 Run tests and coverage
+## 🔎 Run tests and coverage
 
 ```
 (conda_env) $ pip install tox
 (conda_env) $ tox
 ```
 
-### 📖 Licence
+## 📖 Licence
 Distributed under the MIT License. See ```LICENSE.txt``` for more information.
 
 
