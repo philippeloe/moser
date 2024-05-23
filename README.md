@@ -11,7 +11,22 @@ MOSER.py
 MOSER.py (for Molecular Operations and Solutions for Equilibria and Reactions) is a versatile Python package designed for physical chemistry calculations. It enables users to balance chemical equations, trace titration curves, calculate solutions' concentrations and pH, determine molar masses, evaluate reactional quotients, and analyze reaction kinetics efficiently and accurately.
 
 ## 🔬 Usage
+Unlocking an abundance of analytical tools, MOSER.py serves as an invaluable companion for chemistry students, providing intuitive functionalities for essential calculations and analyses. MOSER.py streamlines complex tasks, empowering students to deepen their understanding of physical chemistry concepts and accelerate their learning journey. Among other features, it enables the users to
 
+__1. Balance Chemical Equations__
+Easily balance chemical equations with a simple function call. MOSER.py uses advanced algorithms to ensure accurate balancing of equations.
+
+__2. Calculate Molar Mass__
+Determine the molar mass of chemical compounds effortlessly with MOSER.py. Input the chemical formula, and MOSER.py will compute the molar mass for you.
+
+__3. Determine the Reactional Quotient__
+Evaluate reaction quotients and kinetics parameters using MOSER.py's intuitive interface.
+
+__4. Evaluate a Solution's Concentration and / or pH__
+Quickly calculate the concentration of solutions and pH values using MOSER.py. Specify the relevant parameters, such as the initial concentration of the solute and the volume of the solution, to obtain accurate results.
+
+__5. Simualte Titration Curves__
+Trace titration curves for acid-base titrations and visualize the pH changes throughout the titration process. Specify the concentrations of the acid and base, as well as the volume of titrant added, to generate detailed titration curves.
 ```python
 from moser import Titration
 
@@ -35,9 +50,8 @@ Find hereafter the corresponding titration curve.
     <img src="assets/Tit1.png" alt="Alt Text" width="600" style="display:block; margin:auto;">
 </p>
 
-This usage example shows how to quickly leverage the package's main functionality with just one line of code (or a few lines of code). 
-After importing the `main_func` (to be renamed by you), you simply pass in your `data` and get the `result` (this is just an example, your package might have other inputs and outputs). 
-Short and sweet, but the real power lies in the detailed documentation.
+__5. Investigate Kinetics__
+Analyze reaction rates, rate constants, and other kinetic parameters with ease.
 
 ## 👩‍💻 Installation
 
