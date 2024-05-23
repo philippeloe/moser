@@ -11,13 +11,13 @@ MOSER.py
 __MOSER.py__ (for **M**olecular **O**perations and **S**olutions for **E**quilibria and **R**eactions) is a versatile Python package designed for physical chemistry calculations. 
 
 ## 🔬 Usage
-Unlocking an abundance of analytical tools, MOSER.py serves as an invaluable companion for chemistry students, providing intuitive functionalities for essential calculations and analyses. MOSER.py streamlines complex tasks, empowering students to deepen their understanding of physical chemistry concepts and accelerate their learning journey. Among other features, it enables the users to:
+Unlocking an abundance of analytical tools, __MOSER.py__ serves as an invaluable companion for chemistry students, providing intuitive functionalities for essential calculations and analyses. __MOSER.py__ streamlines complex tasks, empowering students to deepen their understanding of physical chemistry concepts and accelerate their learning journey. Among other features, it enables the users to:
 
 __1. Balance Chemical Equations__ <br>
 Easily balance chemical equations with a simple function call. __MOSER.py__ uses advanced algorithms to ensure accurate balancing of equations.
 
 __2. Calculate Molar Mass__ <br>
-Determine the molar mass of chemical compounds effortlessly with __MOSER.py__. Input the chemical formula, and MOSER.py will compute the molar mass for you.
+Determine the molar mass of chemical compounds effortlessly with __MOSER.py__. Input the chemical formula, and __MOSER.py__ will compute the molar mass for you.
 
 __3. Determine the Reactional Quotient__ <br>
 Evaluate reaction quotients and kinetics parameters using __MOSER.py__'s intuitive interface.
