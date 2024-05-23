@@ -13,15 +13,23 @@ MOSER.py (for Molecular Operations and Solutions for Equilibria and Reactions) i
 ## 🔬 Usage
 
 ```python
-from mypackage import main_func
+from moser import Titration
 
-# One line to rule them all
-result = main_func(data)
+Select the type of titration you want to perform.
+∘ acid titrated by (strong) base --- 1
+∘ base titrated by (strong) acid --- 2
+Make your choice (1/2): 1
+
+Please enter your data:
+∘ chemical formula of titrated acid: HO2CCH(OH)CH(OH)CO2H 
+∘ (acid) pKa1 [-] = 3.07
+∘ (acid) pKa2 [-] (type '*' if there is none) =  4.34
+∘ initial volume of titrated acid: Va [L] = 0.100
+∘ chemical formula of titrant base: NaOH
+∘ concentration of titrant base: Ctit [molL⁻¹] = 0.010
+∘ volume of titrant solution at (first) equivalence point: Veq [L] = 0.010
 ```
 
-```python
-test
-```
 
 This usage example shows how to quickly leverage the package's main functionality with just one line of code (or a few lines of code). 
 After importing the `main_func` (to be renamed by you), you simply pass in your `data` and get the `result` (this is just an example, your package might have other inputs and outputs). 
