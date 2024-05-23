@@ -69,7 +69,6 @@ Before installing __MOSER.py__, make sure to install the following dependencies:
 •SciPy <br>
 •SymPy <br>
 •Matplotlib <br>
-•Tabulate <br>
 •Itertools <br>
 
 __3. Install MOSER.py__ <br>
