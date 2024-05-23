@@ -108,7 +108,7 @@ To install the package, run
 (moser) $ pip install -e ".[test,doc]"
 ```
 
-### Run tests and coverage
+### 🔎 Run tests and coverage
 
 ```
 (conda_env) $ pip install tox
