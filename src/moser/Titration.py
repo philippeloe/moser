@@ -514,7 +514,7 @@ def Titration_dAsB(acid, pKa1, pKa2, Va, base, Ctit, Veq):
     plt.show()
 
 
-def Titration():
+def TitrationUI():
     '''User interface to facilitate the usage of the different titration functions.
 
         Integrates all the titration modes into one single callable function that decides which case is applicable,
@@ -654,10 +654,3 @@ def Titration():
                 break
         except:
             print("\033[1m" + "Make a valid choice (1/2)!" + "\033[0m")
-
-#Titration_sAsB("HCl", 0.25, "NaOH", 1, 0.2)
-#Titration_sBsA("NaOH", 0.2, "HCl", 0.1, 0.1)
-#Titration_wAsB("CH3COOH", 4.756, 0.250, "NaOH", 0.1, 0.10)
-#Titration_wBsA("NH3", 9.249, 0.125, "HCl", 0.1, 0.05)
-#Titration_dAsB("H2CO3", 6.36, 10.25, 0.1, "NaOH", 0.4, 0.050)
-
