@@ -109,5 +109,7 @@ To install the package, run
 ## 📖 Licence
 Distributed under the MIT License. See ```LICENSE.txt``` for more information.
 
+## 📯 Contact
+You may contact us under philippe.loewen[at]epfl.ch
 
 
