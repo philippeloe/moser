@@ -28,7 +28,8 @@ Quickly calculate the concentration of solutions and pH values using __MOSER.py_
 __5. Simualte Titration Curves__ <br>
 Trace titration curves for acid-base titrations and visualize the pH changes throughout the titration process. Specify the concentrations of the acid and base, as well as the volume of titrant added, to generate detailed titration curves.
 ```python
-from moser import Titration
+from Titration import TitrationUI
+TitrationUI()
 
 Select the type of titration you want to perform.
 ∘ acid titrated by (strong) base --- 1
