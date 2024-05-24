@@ -66,7 +66,7 @@ create -n moser python=3.10
 conda activate moser
 pip install .
 ```
-As the package makes use of some python libraries, you might need to install them :
+As the package makes use of some Python libraries, you might need to install them :
 ```python
 pip install anaconda numpy scipy sympy matplotlib itertools tabulate
 ```
