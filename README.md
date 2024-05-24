@@ -63,15 +63,15 @@ create -n moser python=3.10
 ```
 ```python
 conda activate moser
-(moser) $ pip install moser
+pip install .
 ```
-You will also need to install the following dependencies:
+As the package makes use of some python libraries, you might need to install them :
 ```python
-(moser) $ conda install -c anaconda numpy scipy sympy matplotlib itertools tabulate
+pip install anaconda numpy scipy sympy matplotlib itertools tabulate
 ```
 If you need Jupyter Lab, install it:
 ```
-(moser) $ pip install jupyterlab
+pip install jupyterlab
 ```
 
 ## 🛠️ Development installation
