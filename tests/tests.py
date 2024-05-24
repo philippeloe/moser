@@ -1,9 +1,3 @@
-'''import sys
-# caution: path[0] is reserved for script path (or '' in REPL)
-sys.path.insert(1, '/Users/PhilippeLoewen_1/Desktop/MOSER Project Files/moser_package/src/moser')
-
-from BalanceEq import *'''
-
 import os
 import sys
 import numpy
