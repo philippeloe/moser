@@ -8,8 +8,7 @@ MOSER.py
 
 <br>
 
-__MOSER.py__ (for **M**olecular **O**perations and **S**olutions for **E**quilibria and **R**eactions) is a versatile Python package designed for physical chemistry calculations.<br>
-In honor of Pr. Jacques-E. Moser, whose course "Équilibres et Réactivités Chimiques" at EPFL from 2005 to 2022 inspired the creation of this Python package, MOSER.py .
+__MOSER.py__ (for **M**olecular **O**perations and **S**olutions for **E**quilibria and **R**eactions) is a versatile Python package designed for physical chemistry calculations. In honor of Pr. Jacques-E. Moser, whose course "Équilibres et Réactivités Chimiques" at EPFL from 2005 to 2022 inspired the creation of this Python package.
 
 ## 🔬 Features
 Unlocking an abundance of analytical tools, __MOSER.py__ serves as an invaluable companion for chemistry students, providing intuitive functionalities for essential calculations and analyses. __MOSER.py__ streamlines complex tasks, empowering students to deepen their understanding of physical chemistry concepts and accelerate their learning journey. Among other features, it enables the users to:
