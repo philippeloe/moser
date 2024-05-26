@@ -26,7 +26,7 @@ __4. Evaluate a Solution's Concentration and pH__ <br>
 Quickly calculate the concentration of solutions and pH values using __MOSER.py__. Specify the relevant parameters, such as the initial concentration of the solute and the volume of the solution, to obtain accurate results.
 
 __5. Simualte Titration Curves__ <br>
-Trace titration curves for acid-base titrations and visualize the pH changes throughout the titration process. Specify the concentrations of the acid and base, as well as the volume of titrant added, to generate detailed titration curves.
+Trace titration curves for acid-base titrations and visualize the pH changes throughout the titration process. Specify the concentrations of the acid or base, as well as the volume of titrant added, to generate detailed titration curves.
 ```python
 from Titration import TitrationUI
 TitrationUI()
