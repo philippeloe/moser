@@ -1,3 +1,3 @@
 # Data 
 
-Folder to place your data. 
+Find here example data sets for the kinetic part of *MOSER.py*.
