@@ -79,7 +79,7 @@ pip install jupyterlab
 
 Initialize Git (only for the first time). 
 
-Note: You should have create an empty repository on `https://github.com:philippeloe/moser`.
+Note: You should have create an empty repository on your github.
 
 ```
 git init
@@ -87,7 +87,7 @@ git add *
 git add .*
 git commit -m "Initial commit" 
 git branch -M main
-git remote add origin git@github.com:philippeloe/moser.git 
+git remote add origin git@github.com:<your_profile>/<your_repo>.git 
 git push -u origin main
 ```
 
