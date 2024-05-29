@@ -9,7 +9,13 @@ requires-python = ">=3.10"
 license = {file = "LICENSE"}
 description = "MOSER.py (for Molecular Operations and Solutions for Equilibria and Reactions) is a versatile Python package designed for physical chemistry calculations. It enables users to balance chemical equations, trace titration curves, calculate solutions' concentrations and pH, determine molar masses, evaluate reactional quotients, and analyze reaction kinetics efficiently and accurately."
 dependencies = [
-    # "rdkit",
+    "numpy>=1.26.4",
+    "matplotlib>=3.8.4",
+    "pytest>=6.2.5",
+    "sympy>=1.12",
+    "scipy>=1.13.0",
+    "tabulate>=0.9.0",
+    "itertools>=10.2.0"
 ]
 authors = [
     {name = "Philippe Loewen", email = "philippe.loewen@epfl.ch"}
