@@ -18,7 +18,8 @@ dependencies = [
     "itertools>=10.2.0"
 ]
 authors = [
-    {name = "Philippe Loewen", email = "philippe.loewen@epfl.ch"}
+    {name = "Philippe Loewen", email = "philippe.loewen@epfl.ch"},
+    {name = "Yusuf Kiliçer", email = "yusuf.kilicer@epfl.ch"}
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
