@@ -55,16 +55,19 @@ __5. Investigate Kinetics__ <br>
 Analyze reaction rates, rate constants, and other kinetic parameters with ease.
 
 ## 💿 Setup 
+In order to install **MOSER.py**, create a new conda environment *moser* (make sure you have installed Anaconda) with the following code:
+```python
+conda create -n moser
+conda activate moser
+```
+Clone **MOSER.py**:
 ```python
 git clone https://github.com/philippeloe/moser.git
+```
+Make sure you have installed *pip* in your *moser* environment. Then, navigate to *moser* and install **MOSER.py**:
+```python
 cd moser
-```
-```python
-create -n moser python=3.10
-```
-```python
-conda activate moser
-pip install .
+pip install -e .
 ```
 As the package makes use of some Python libraries, you might need to install them :
 ```python
