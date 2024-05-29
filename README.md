@@ -73,7 +73,14 @@ Then, navigate to *moser* and install **MOSER.py**:
 cd moser
 pip install -e .
 ```
-As the package makes use of some Python libraries, you might need to install them :
+**MOSER.py** relies on the following Python packages:<br>
+⋅NumPy<br>
+⋅SciPy<br>
+⋅SymPy<br>
+⋅Matplotlib<br>
+⋅Tabulate<br>
+⋅Itertools<br>
+If the setup did not automatically install these dependencies, install them manually:
 ```python
 pip install anaconda numpy scipy sympy matplotlib itertools tabulate
 ```
@@ -81,13 +88,7 @@ If you need Jupyter Lab, install it:
 ```
 pip install jupyterlab
 ```
-**MOSER.py** relies on the following Python packages:<br>
-⋅NumPy<br>
-⋅SciPy<br>
-⋅SymPy<br>
-⋅Matplotlib<br>
-⋅Tabulate<br>
-⋅Itertools
+
 
 ## 🛠️ Development installation
 
