@@ -77,6 +77,14 @@ If you need Jupyter Lab, install it:
 ```
 pip install jupyterlab
 ```
+**MOSER.py** relies on the following Python packages:
+⋅NumPy
+⋅SciPy
+⋅SymPy
+⋅Matplotlib
+⋅Tabulate
+⋅Itertools
+
 
 ## 🛠️ Development installation
 
