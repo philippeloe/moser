@@ -514,7 +514,7 @@ def Titration_dAsB(acid, pKa1, pKa2, Va, base, Ctit, Veq):
     plt.show()
 
 
-def TitrationUI():
+def Titration():
     '''User interface to facilitate the usage of the different titration functions.
 
         Integrates all the titration modes into one single callable function that decides which case is applicable,
